@@ -1,0 +1,19 @@
+{
+    "name": "vanilla-event-bus",
+    "version": "1.0.0",
+    "description": "A simple JavaScript EventBus.",
+    "scripts": {
+        "test": "vitest"
+    },
+    "keywords": [
+        "vanilla",
+        "event-bus"
+    ],
+    "author": {
+        "name": "Rodrigo Mesquita"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "vitest": "^0.29.8"
+    }
+}
